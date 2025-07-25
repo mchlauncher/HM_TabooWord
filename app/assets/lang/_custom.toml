@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "광물 챌린지"
+title = "라율의 충동구매 서버"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/HM_TabooWord"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/HM_TabooWord"
 supportLink = "https://github.com/mchlauncher/HM_TabooWord/issues"
 
 [ejs.welcome]
-welcomeHeader = "광물 챌린지"
+welcomeHeader = "라율의 충동구매 서버"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
